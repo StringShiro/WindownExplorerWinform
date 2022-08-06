@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\WindowsExporerWinform\WindowsExporerWinform\bin\Debug\WindowsExporerWinform.exe.config
+C:\Users\ADMIN\Desktop\WindowsExporerWinform\WindowsExporerWinform\bin\Debug\WindowsExporerWinform.exe
+C:\Users\ADMIN\Desktop\WindowsExporerWinform\WindowsExporerWinform\bin\Debug\WindowsExporerWinform.pdb
+C:\Users\ADMIN\Desktop\WindowsExporerWinform\WindowsExporerWinform\obj\Debug\WindowsExporerWinform.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\WindowsExporerWinform\WindowsExporerWinform\obj\Debug\WindowsExporerWinform.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\WindowsExporerWinform\WindowsExporerWinform\obj\Debug\WindowsExporerWinform.WindowExplorerForm.resources
+C:\Users\ADMIN\Desktop\WindowsExporerWinform\WindowsExporerWinform\obj\Debug\WindowsExporerWinform.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\WindowsExporerWinform\WindowsExporerWinform\obj\Debug\WindowsExporerWinform.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\WindowsExporerWinform\WindowsExporerWinform\obj\Debug\WindowsExporerWinform.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\WindowsExporerWinform\WindowsExporerWinform\obj\Debug\WindowsExporerWinform.exe
+C:\Users\ADMIN\Desktop\WindowsExporerWinform\WindowsExporerWinform\obj\Debug\WindowsExporerWinform.pdb
